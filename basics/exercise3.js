@@ -1,0 +1,1 @@
+console.log('String, Boolean, Number, Number, Undefined, Object');

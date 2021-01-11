@@ -1,0 +1,1 @@
+console.log("There is no variable defined as greeting in the file exercise2.js and the error occurs at line 4");

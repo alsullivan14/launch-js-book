@@ -1,0 +1,1 @@
+console.log("Splits the string on spaces, reverses their order and then returns the number of characters in each string");

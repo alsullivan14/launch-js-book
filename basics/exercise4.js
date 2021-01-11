@@ -1,0 +1,1 @@
+console.log('The number 10 is first coerced into a string and then concatenated to the string of 5. Without the plus operator this wouldn\'t happen');

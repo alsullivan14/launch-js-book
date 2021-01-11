@@ -1,0 +1,1 @@
+console.log("primitives: 1, 2, a, b, false, null", "objects: each array and the empty object");

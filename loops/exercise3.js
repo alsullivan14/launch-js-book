@@ -1,0 +1,1 @@
+console.log("1 is always set as the default in the while loop so the break condition is never reached");

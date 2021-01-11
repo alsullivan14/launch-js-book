@@ -1,0 +1,1 @@
+console.log("The return statement means that it won't log anything");
